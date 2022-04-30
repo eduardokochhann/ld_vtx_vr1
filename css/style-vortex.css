@@ -16,6 +16,7 @@ Version: 1.0.0.2
 /* ============================== Layout - Landing Page ================================= */
 
 /*Primeira Pag*/
+
 .tl-primeira{
     text-align: center;
     margin-top: 40px;
@@ -69,6 +70,7 @@ Version: 1.0.0.2
 }
 
 /*Segunda Pag*/
+
 .tl-segunda{
     text-align: center;
     margin-top: 40px;
@@ -85,11 +87,28 @@ Version: 1.0.0.2
 
 #lst-seg-pg{
     text-align: left;
+    /* padding-left: 175px; */
+    margin-left: 200px;
+    margin-top: 125px;
+    font-size: 14px;
+    color: #7ff3fd;
 }
 
 #img-sg-pg{
     margin-left: -49px;
     margin-top: -51px;
+}
+
+#icon-sg-pg{
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 50px;
+}
+
+#div-icons-sg{
+    margin-top: 10px;
+    margin-left: 70px;
+    margin-bottom: 25px;
 }
 
 
