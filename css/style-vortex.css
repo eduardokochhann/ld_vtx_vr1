@@ -1,3 +1,10 @@
+
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 /* ----------------------------------------------------------------
 Designer: Eduardo Kochhann
 Empresa: Vortex Social Media
@@ -14,6 +21,8 @@ Version: 1.0.0.2
 }
 
 /* ============================== Layout - Landing Page ================================= */
+
+
 
 /*Primeira Pag*/
 
@@ -110,6 +119,62 @@ Version: 1.0.0.2
     margin-left: 70px;
     margin-bottom: 25px;
 }
+
+/*Terceira Pag*/
+
+.tl-terceira{
+    text-align: left;
+    margin-top: 40px;
+    font-family: 'Montserrat', sans-serif, serif;
+    color: #fff;
+}
+
+.tl-terceira h2{
+    text-shadow: 0.1em 0.1em 0.2em black;
+    font-family: 'Montserrat', sans-serif, serif;   
+    font-weight: 500;
+    font-size: 23;
+}
+
+.text-icons-tr{
+    color: #7ff3fd;
+}
+
+/*Quarta Pag*/
+
+.tl-quarta{
+    text-align: left;
+    margin-top: 40px;
+    font-family: 'Montserrat', sans-serif, serif;
+    color: #fff;
+}
+
+.tl-quarta h2{
+    text-shadow: 0.1em 0.1em 0.2em black;
+    font-family: 'Montserrat', sans-serif, serif;   
+    font-weight: 500;
+    font-size: 23;
+    text-align: center;
+}
+
+.tl-quarta h3{
+    text-shadow: 0.1em 0.1em 0.2em black;
+    font-family: 'Montserrat', sans-serif, serif;   
+    font-weight: 500;
+    font-size: 23px;
+    text-align: center;
+    margin-top: -28px;
+    margin-bottom: 25px;
+}
+
+.lst-qrt-pg{
+    color: #7ff3fd;
+    font-weight: 450;
+    padding-left: 30px;
+    margin-top: -45px;
+}
+
+
 
 
 /* ============================== Layout - BASE ================================= */
