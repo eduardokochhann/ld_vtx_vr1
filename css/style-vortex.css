@@ -1,16 +1,14 @@
 
-* { 
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 /* ----------------------------------------------------------------
 Designer: Eduardo Kochhann
 Empresa: Vortex Social Media
 Data: 24/04/2022
 
 Version: 1.0.0.2
+
+**MOD
+Version: 1.0.0.5
+Data: 01/05/2022
 
 -----------------------------------------------------------------*/
 /*Style testes e montagem*/
@@ -21,9 +19,6 @@ Version: 1.0.0.2
 }
 
 /* ============================== Layout - Landing Page ================================= */
-
-
-
 /*Primeira Pag*/
 
 .tl-primeira{
@@ -174,7 +169,73 @@ Version: 1.0.0.2
     margin-top: -45px;
 }
 
+/*Quinta Pag*/
 
+.tl-quinta{
+    text-align: left;
+    margin-top: 40px;
+    font-family: 'Montserrat', sans-serif, serif;
+    color: #fff;
+}
+
+.tl-quinta h2{
+    text-shadow: 0.1em 0.1em 0.2em black;
+    font-family: 'Montserrat', sans-serif, serif;   
+    font-weight: 500;
+    font-size: 23;
+    text-align: center;
+}
+
+.tl-quinta h3{
+    text-shadow: 0.1em 0.1em 0.2em black;
+    font-family: 'Montserrat', sans-serif, serif;   
+    font-weight: 500;
+    font-size: 23px;
+    text-align: center;
+    margin-top: -28px;
+    margin-bottom: 25px;
+}
+
+.tl-quinta2 h2{
+    font-family: 'Montserrat', sans-serif, serif;   
+    font-size: 23;
+    text-align: center;
+    color: #fff;
+    text-shadow: 0.1em 0.1em 0.2em black;
+}
+
+.retangulo-quint{
+    width: auto;
+    height: 45px;
+    background-color: #049ed1;
+    border-radius: 2px;
+}
+
+.icons-quint-pg{
+    position: absolute;
+    width: 70px;
+    margin-left: 25px;
+    margin-top: -70px;
+}
+
+.titulos-quint-pg{
+    text-shadow: 0.1em 0.02em 0.2em #3c3c3c;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 30px;   
+    color: whitesmoke;
+    padding-left: 112px;
+    margin-top: -39px;
+}
+
+.lst-quint-pg{
+    color: whitesmoke;
+    font-family: "Montserrat", serif, sans-serif;
+    margin-left: 10px;
+    font-size: 18px;
+    font-weight: 600;
+
+}
 
 
 /* ============================== Layout - BASE ================================= */
