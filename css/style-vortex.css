@@ -237,6 +237,40 @@ Data: 01/05/2022
 
 }
 
+/*Sexta Pag*/
+
+.tl-sexta h2{
+    text-shadow: 0.1em 0.1em 0.2em black;
+    font-family: 'Montserrat', sans-serif, serif;   
+    font-weight: 500;
+    font-size: 23;
+    text-align: center;
+    color: whitesmoke;
+}
+
+.tl-sexta h3{
+    text-shadow: 0.1em 0.1em 0.2em black;
+    font-family: 'Montserrat', sans-serif, serif;   
+    font-weight: 500;
+    font-size: 23px;
+    text-align: center;
+    margin-top: -28px;
+    margin-bottom: 25px;
+}
+
+.tl-sexta2 h2{
+    font-family: 'Montserrat', sans-serif, serif;   
+    font-size: 24px;
+    text-align: center;
+    color: #fff;
+    text-shadow: 0.1em 0.1em 0.2em black;
+    padding: 10px 10px;
+    position: absolute;
+}
+
+
+
+
 
 /* ============================== Layout - BASE ================================= */
 
