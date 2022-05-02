@@ -239,7 +239,7 @@ Data: 01/05/2022
 
 /*Sexta Pag*/
 
-.tl-sexta h2{
+.tl-sexta {
     text-shadow: 0.1em 0.1em 0.2em black;
     font-family: 'Montserrat', sans-serif, serif;   
     font-weight: 500;
@@ -392,6 +392,8 @@ Data: 01/05/2022
     padding:10px 35px;
     text-transform: uppercase;
     transition: background 0.4s, color 0.4s;    
+    
+
 }
 
 .capa {
